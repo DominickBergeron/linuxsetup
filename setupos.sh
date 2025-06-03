@@ -23,6 +23,8 @@ declare -a packages=(
 "ghostty"
 "neovim" "tree-sitter" "gcc" "unzip" "yarn" "gnumake"
 "lazygit"
+"steam" 
+"google-chrome"
 
 "fzf" "stow" "exa" "zoxide" "ripgrep-all" "git" "gh" "curl"
 "neofetch"
