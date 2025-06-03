@@ -21,7 +21,7 @@ DOTFILE_REPO="https://github.com/F0rgeC0de/.dotfiles"
 # List of packages to install with nix-env
 declare -a packages=(
 "ghostty"
-"neovim" "tree-sitter" "gcc" "unzip" "yarn" "gnumake"
+"neovim" "tree-sitter" "gcc" "unzip" "nodejs" "gnumake"
 "lazygit"
 "steam" 
 "google-chrome"
